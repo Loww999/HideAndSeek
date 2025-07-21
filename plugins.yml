@@ -3,3 +3,8 @@ main: HideAndSeek/main
 version: 0.0.0
 api: 5.0.0
 autors: Loww999
+commands:
+  has:
+    desscription: Join Hide and seek
+arena
+    usage: "/join"
