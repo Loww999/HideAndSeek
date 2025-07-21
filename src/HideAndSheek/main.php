@@ -1,3 +1,5 @@
+<?php
+
 namespace HideAndSeek;
 
 use pocketmine\plugin\PluginBase;
